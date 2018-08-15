@@ -32,6 +32,7 @@ body {
     padding-bottom: 30px;
     margin-top: 0px;
     float: right; 
+    text-shadow: 2px 2px brown; 
     font-family: 'quicksanddash';
 }
 .p-right:hover {
@@ -123,8 +124,10 @@ body {
     padding-top: 20px;
 	word-spacing: 25px;
     padding-left: 10px;
+    word-spacing: 150px;
     background-color: rgb(93, 133, 160);
 }
+
 .fb {
     height: 35px;
     border-radius: 50%;
@@ -134,4 +137,7 @@ body {
 }
 .slac {
     height: 40px;
+}
+.git {
+    height: 43px;
 }
